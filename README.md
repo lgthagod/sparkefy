@@ -17,7 +17,7 @@ App Store Connect **requires** a public Support URL (and usually a Privacy URL) 
 See: App Store Connect Help > App Information.
 
 This page satisfies the requirement with:
-- Prominent `mailto:support@sparkefy.app`
+- Prominent `mailto:sparkefysupport@gmail.com`
 - Short, accurate answers to the most common in-app questions
 - A compact privacy/terms summary (so the same URL or `#privacy` anchor can be used for the Privacy URL field)
 
@@ -55,7 +55,7 @@ This page satisfies the requirement with:
 The Profile tab now has a "Support & Legal" section that opens this page directly (uses the value from `Config.supportURL`).
 
 ## Contact email used on the site
-`support@sparkefy.app` (matches the demo user pattern `*@sparkefy.app` used throughout the app).
+`sparkefysupport@gmail.com` (matches the demo user pattern `*@sparkefy.app` used throughout the app).
 
 ## Notes for App Store submission
 - This page is intentionally minimal and mobile-friendly.
